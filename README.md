@@ -1,6 +1,5 @@
-(customer-churn.ipynb.png)
+ (customer-churn.ipynb.png)
 # Customer Churn Prediction 📉
-
 A machine learning project to predict whether a customer is likely to churn based on historical usage and service data.
 
 # Problem Statement
